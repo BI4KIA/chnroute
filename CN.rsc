@@ -1820,6 +1820,8 @@ add list=List_ALL_China address=118.145.0.0/19 comment=CN_list
 add list=List_ALL_China address=118.145.32.0/20 comment=CN_list
 add list=List_ALL_China address=118.145.128.0/19 comment=CN_list
 add list=List_ALL_China address=118.145.160.0/21 comment=CN_list
+add list=List_ALL_China address=118.145.176.0/20 comment=CN_list
+add list=List_ALL_China address=118.145.192.0/19 comment=CN_list
 add list=List_ALL_China address=118.178.0.0/16 comment=CN_list
 add list=List_ALL_China address=118.180.0.0/14 comment=CN_list
 add list=List_ALL_China address=118.184.128.0/17 comment=CN_list
