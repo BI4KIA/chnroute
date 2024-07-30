@@ -1410,7 +1410,7 @@ add list=List_ALL_China address=110.125.128.0/17 comment=CN_list
 add list=List_ALL_China address=110.152.0.0/14 comment=CN_list
 add list=List_ALL_China address=110.156.0.0/15 comment=CN_list
 add list=List_ALL_China address=110.166.0.0/15 comment=CN_list
-add list=List_ALL_China address=110.172.212.0/23 comment=CN_list
+add list=List_ALL_China address=110.172.213.0/24 comment=CN_list
 add list=List_ALL_China address=110.173.8.0/21 comment=CN_list
 add list=List_ALL_China address=110.173.16.0/20 comment=CN_list
 add list=List_ALL_China address=110.173.32.0/20 comment=CN_list
