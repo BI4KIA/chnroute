@@ -2430,6 +2430,8 @@ add list=List_ALL_China address=150.242.56.0/22 comment=CN_list
 add list=List_ALL_China address=150.242.76.0/22 comment=CN_list
 add list=List_ALL_China address=150.242.80.0/22 comment=CN_list
 add list=List_ALL_China address=150.242.96.0/22 comment=CN_list
+add list=List_ALL_China address=150.242.120.0/24 comment=CN_list
+add list=List_ALL_China address=150.242.122.0/23 comment=CN_list
 add list=List_ALL_China address=150.242.168.0/22 comment=CN_list
 add list=List_ALL_China address=150.242.184.0/22 comment=CN_list
 add list=List_ALL_China address=150.242.232.0/22 comment=CN_list
