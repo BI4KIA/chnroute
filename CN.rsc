@@ -2498,8 +2498,10 @@ add list=List_ALL_China address=168.159.152.0/22 comment=CN_list
 add list=List_ALL_China address=168.159.156.0/23 comment=CN_list
 add list=List_ALL_China address=168.159.158.0/24 comment=CN_list
 add list=List_ALL_China address=168.160.0.0/17 comment=CN_list
+add list=List_ALL_China address=168.160.152.0/24 comment=CN_list
 add list=List_ALL_China address=168.160.158.0/23 comment=CN_list
 add list=List_ALL_China address=168.160.160.0/21 comment=CN_list
+add list=List_ALL_China address=168.160.168.0/24 comment=CN_list
 add list=List_ALL_China address=168.160.224.0/19 comment=CN_list
 add list=List_ALL_China address=171.8.0.0/13 comment=CN_list
 add list=List_ALL_China address=171.34.0.0/15 comment=CN_list
