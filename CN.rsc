@@ -1710,9 +1710,8 @@ add list=List_ALL_China address=115.84.0.0/18 comment=CN_list
 add list=List_ALL_China address=115.85.192.0/18 comment=CN_list
 add list=List_ALL_China address=115.102.0.0/16 comment=CN_list
 add list=List_ALL_China address=115.120.0.0/17 comment=CN_list
-add list=List_ALL_China address=115.120.130.0/23 comment=CN_list
+add list=List_ALL_China address=115.120.130.0/24 comment=CN_list
 add list=List_ALL_China address=115.120.136.0/21 comment=CN_list
-add list=List_ALL_China address=115.120.156.0/23 comment=CN_list
 add list=List_ALL_China address=115.120.192.0/18 comment=CN_list
 add list=List_ALL_China address=115.124.16.0/20 comment=CN_list
 add list=List_ALL_China address=115.148.0.0/14 comment=CN_list
