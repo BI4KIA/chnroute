@@ -130,7 +130,6 @@ add list=List_ALL_China address=39.108.0.0/16 comment=CN_list
 add list=List_ALL_China address=39.128.0.0/10 comment=CN_list
 add list=List_ALL_China address=40.0.176.0/20 comment=CN_list
 add list=List_ALL_China address=40.0.248.0/21 comment=CN_list
-add list=List_ALL_China address=40.72.64.0/24 comment=CN_list
 add list=List_ALL_China address=40.198.10.0/24 comment=CN_list
 add list=List_ALL_China address=40.198.16.0/21 comment=CN_list
 add list=List_ALL_China address=40.198.24.0/23 comment=CN_list
