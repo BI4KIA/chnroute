@@ -2016,7 +2016,7 @@ add list=List_ALL_China address=116.130.0.0/15 comment=CN_list
 add list=List_ALL_China address=116.132.0.0/15 comment=CN_list
 add list=List_ALL_China address=116.135.0.0/16 comment=CN_list
 add list=List_ALL_China address=116.136.0.0/13 comment=CN_list
-add list=List_ALL_China address=116.147.0.0/16 comment=CN_list
+add list=List_ALL_China address=116.146.0.0/15 comment=CN_list
 add list=List_ALL_China address=116.148.0.0/15 comment=CN_list
 add list=List_ALL_China address=116.153.0.0/16 comment=CN_list
 add list=List_ALL_China address=116.154.0.0/15 comment=CN_list
