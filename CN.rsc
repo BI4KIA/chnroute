@@ -2630,7 +2630,6 @@ add list=List_ALL_China address=124.126.0.0/15 comment=CN_list
 add list=List_ALL_China address=124.128.0.0/13 comment=CN_list
 add list=List_ALL_China address=124.151.0.0/17 comment=CN_list
 add list=List_ALL_China address=124.151.128.0/18 comment=CN_list
-add list=List_ALL_China address=124.151.193.0/24 comment=CN_list
 add list=List_ALL_China address=124.151.224.0/19 comment=CN_list
 add list=List_ALL_China address=124.152.0.0/16 comment=CN_list
 add list=List_ALL_China address=124.160.0.0/13 comment=CN_list
