@@ -1939,8 +1939,6 @@ add list=List_ALL_China address=115.172.32.0/21 comment=CN_list
 add list=List_ALL_China address=115.172.46.0/23 comment=CN_list
 add list=List_ALL_China address=115.173.0.0/19 comment=CN_list
 add list=List_ALL_China address=115.174.64.0/19 comment=CN_list
-add list=List_ALL_China address=115.175.0.0/18 comment=CN_list
-add list=List_ALL_China address=115.175.64.0/19 comment=CN_list
 add list=List_ALL_China address=115.182.0.0/15 comment=CN_list
 add list=List_ALL_China address=115.190.0.0/17 comment=CN_list
 add list=List_ALL_China address=115.190.128.0/19 comment=CN_list
