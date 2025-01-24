@@ -4114,7 +4114,6 @@ add list=List_ALL_China address=222.64.0.0/11 comment=CN_list
 add list=List_ALL_China address=222.125.0.0/16 comment=CN_list
 add list=List_ALL_China address=222.126.128.0/22 comment=CN_list
 add list=List_ALL_China address=222.126.132.0/23 comment=CN_list
-add list=List_ALL_China address=222.126.138.0/24 comment=CN_list
 add list=List_ALL_China address=222.126.141.0/24 comment=CN_list
 add list=List_ALL_China address=222.126.142.0/23 comment=CN_list
 add list=List_ALL_China address=222.126.144.0/22 comment=CN_list
