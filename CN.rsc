@@ -3178,6 +3178,7 @@ add list=List_ALL_China address=198.208.67.0/24 comment=CN_list
 add list=List_ALL_China address=198.208.112.0/23 comment=CN_list
 add list=List_ALL_China address=199.187.24.0/22 comment=CN_list
 add list=List_ALL_China address=199.244.144.0/24 comment=CN_list
+add list=List_ALL_China address=199.248.199.0/24 comment=CN_list
 add list=List_ALL_China address=202.1.86.0/23 comment=CN_list
 add list=List_ALL_China address=202.1.90.0/23 comment=CN_list
 add list=List_ALL_China address=202.1.110.0/23 comment=CN_list
