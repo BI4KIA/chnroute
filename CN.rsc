@@ -3300,6 +3300,7 @@ add list=List_ALL_China address=202.150.26.0/23 comment=CN_list
 add list=List_ALL_China address=202.152.190.0/23 comment=CN_list
 add list=List_ALL_China address=202.153.48.0/20 comment=CN_list
 add list=List_ALL_China address=202.158.160.0/19 comment=CN_list
+add list=List_ALL_China address=202.160.142.0/24 comment=CN_list
 add list=List_ALL_China address=202.162.96.0/24 comment=CN_list
 add list=List_ALL_China address=202.164.0.0/20 comment=CN_list
 add list=List_ALL_China address=202.168.160.0/19 comment=CN_list
