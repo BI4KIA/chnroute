@@ -569,6 +569,7 @@ add list=List_ALL_China address=54.222.80.0/21 comment=CN_list
 add list=List_ALL_China address=54.222.88.0/22 comment=CN_list
 add list=List_ALL_China address=54.222.96.0/23 comment=CN_list
 add list=List_ALL_China address=54.222.100.0/22 comment=CN_list
+add list=List_ALL_China address=54.222.104.0/22 comment=CN_list
 add list=List_ALL_China address=54.222.112.0/22 comment=CN_list
 add list=List_ALL_China address=54.222.116.0/23 comment=CN_list
 add list=List_ALL_China address=54.222.128.0/17 comment=CN_list
