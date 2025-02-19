@@ -3736,6 +3736,7 @@ add list=List_ALL_China address=211.144.22.0/24 comment=CN_list
 add list=List_ALL_China address=211.144.24.0/24 comment=CN_list
 add list=List_ALL_China address=211.144.27.0/24 comment=CN_list
 add list=List_ALL_China address=211.144.28.0/23 comment=CN_list
+add list=List_ALL_China address=211.144.33.0/24 comment=CN_list
 add list=List_ALL_China address=211.144.64.0/19 comment=CN_list
 add list=List_ALL_China address=211.144.96.0/23 comment=CN_list
 add list=List_ALL_China address=211.144.100.0/22 comment=CN_list
