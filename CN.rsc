@@ -2906,7 +2906,7 @@ add list=List_ALL_China address=159.27.0.0/16 comment=CN_list
 add list=List_ALL_China address=159.75.0.0/16 comment=CN_list
 add list=List_ALL_China address=159.226.0.0/16 comment=CN_list
 add list=List_ALL_China address=160.19.76.0/23 comment=CN_list
-add list=List_ALL_China address=160.19.208.0/21 comment=CN_list
+add list=List_ALL_China address=160.19.208.0/22 comment=CN_list
 add list=List_ALL_China address=160.20.18.0/23 comment=CN_list
 add list=List_ALL_China address=160.22.188.0/24 comment=CN_list
 add list=List_ALL_China address=160.83.110.0/24 comment=CN_list
