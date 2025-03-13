@@ -2883,8 +2883,7 @@ add list=List_ALL_China address=154.197.248.0/24 comment=CN_list
 add list=List_ALL_China address=154.203.17.0/24 comment=CN_list
 add list=List_ALL_China address=154.203.18.0/23 comment=CN_list
 add list=List_ALL_China address=154.203.22.0/23 comment=CN_list
-add list=List_ALL_China address=154.203.24.0/23 comment=CN_list
-add list=List_ALL_China address=154.203.27.0/24 comment=CN_list
+add list=List_ALL_China address=154.203.24.0/22 comment=CN_list
 add list=List_ALL_China address=154.203.28.0/23 comment=CN_list
 add list=List_ALL_China address=154.203.30.0/24 comment=CN_list
 add list=List_ALL_China address=155.126.176.0/23 comment=CN_list
