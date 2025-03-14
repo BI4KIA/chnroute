@@ -6,6 +6,7 @@ add list=List_ALL_China address=1.8.8.0/24 comment=CN_list
 add list=List_ALL_China address=1.12.0.0/14 comment=CN_list
 add list=List_ALL_China address=1.18.128.0/24 comment=CN_list
 add list=List_ALL_China address=1.24.0.0/13 comment=CN_list
+add list=List_ALL_China address=1.32.228.0/24 comment=CN_list
 add list=List_ALL_China address=1.32.237.0/24 comment=CN_list
 add list=List_ALL_China address=1.45.0.0/16 comment=CN_list
 add list=List_ALL_China address=1.48.0.0/14 comment=CN_list
