@@ -3930,7 +3930,13 @@ add list=List_ALL_China address=219.236.0.0/14 comment=CN_list
 add list=List_ALL_China address=219.242.0.0/15 comment=CN_list
 add list=List_ALL_China address=219.244.0.0/14 comment=CN_list
 add list=List_ALL_China address=220.101.192.0/18 comment=CN_list
-add list=List_ALL_China address=220.112.0.0/18 comment=CN_list
+add list=List_ALL_China address=220.112.0.0/22 comment=CN_list
+add list=List_ALL_China address=220.112.8.0/24 comment=CN_list
+add list=List_ALL_China address=220.112.40.0/21 comment=CN_list
+add list=List_ALL_China address=220.112.50.0/23 comment=CN_list
+add list=List_ALL_China address=220.112.52.0/23 comment=CN_list
+add list=List_ALL_China address=220.112.54.0/24 comment=CN_list
+add list=List_ALL_China address=220.112.59.0/24 comment=CN_list
 add list=List_ALL_China address=220.112.192.0/20 comment=CN_list
 add list=List_ALL_China address=220.113.0.0/19 comment=CN_list
 add list=List_ALL_China address=220.113.32.0/20 comment=CN_list
