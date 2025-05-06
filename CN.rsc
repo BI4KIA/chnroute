@@ -3841,8 +3841,8 @@ add list=List_ALL_China address=218.240.0.0/18 comment=CN_list
 add list=List_ALL_China address=218.240.128.0/19 comment=CN_list
 add list=List_ALL_China address=218.240.160.0/21 comment=CN_list
 add list=List_ALL_China address=218.240.168.0/24 comment=CN_list
-add list=List_ALL_China address=218.240.176.0/21 comment=CN_list
-add list=List_ALL_China address=218.240.184.0/24 comment=CN_list
+add list=List_ALL_China address=218.240.179.0/24 comment=CN_list
+add list=List_ALL_China address=218.240.180.0/22 comment=CN_list
 add list=List_ALL_China address=218.241.16.0/21 comment=CN_list
 add list=List_ALL_China address=218.241.96.0/19 comment=CN_list
 add list=List_ALL_China address=218.241.128.0/17 comment=CN_list
