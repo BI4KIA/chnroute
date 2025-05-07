@@ -2049,7 +2049,7 @@ add list=List_ALL_China address=117.122.192.0/18 comment=CN_list
 add list=List_ALL_China address=117.124.98.0/24 comment=CN_list
 add list=List_ALL_China address=117.124.231.0/24 comment=CN_list
 add list=List_ALL_China address=117.124.232.0/22 comment=CN_list
-add list=List_ALL_China address=117.124.236.0/24 comment=CN_list
+add list=List_ALL_China address=117.124.236.0/23 comment=CN_list
 add list=List_ALL_China address=117.126.0.0/16 comment=CN_list
 add list=List_ALL_China address=117.128.0.0/10 comment=CN_list
 add list=List_ALL_China address=118.24.0.0/15 comment=CN_list
