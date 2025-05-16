@@ -3021,8 +3021,7 @@ add list=List_ALL_China address=182.61.192.0/22 comment=CN_list
 add list=List_ALL_China address=182.61.200.0/21 comment=CN_list
 add list=List_ALL_China address=182.61.216.0/21 comment=CN_list
 add list=List_ALL_China address=182.61.224.0/19 comment=CN_list
-add list=List_ALL_China address=182.80.0.0/16 comment=CN_list
-add list=List_ALL_China address=182.84.0.0/14 comment=CN_list
+add list=List_ALL_China address=182.80.0.0/13 comment=CN_list
 add list=List_ALL_China address=182.88.0.0/14 comment=CN_list
 add list=List_ALL_China address=182.92.0.0/16 comment=CN_list
 add list=List_ALL_China address=182.96.0.0/11 comment=CN_list
