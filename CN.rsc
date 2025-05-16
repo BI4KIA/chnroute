@@ -638,7 +638,7 @@ add list=List_ALL_China address=59.111.240.0/20 comment=CN_list
 add list=List_ALL_China address=59.151.0.0/17 comment=CN_list
 add list=List_ALL_China address=59.152.36.0/24 comment=CN_list
 add list=List_ALL_China address=59.152.38.0/23 comment=CN_list
-add list=List_ALL_China address=59.153.4.0/22 comment=CN_list
+add list=List_ALL_China address=59.153.4.0/23 comment=CN_list
 add list=List_ALL_China address=59.153.32.0/22 comment=CN_list
 add list=List_ALL_China address=59.153.92.0/22 comment=CN_list
 add list=List_ALL_China address=59.153.164.0/22 comment=CN_list
