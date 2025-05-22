@@ -848,6 +848,8 @@ add list=List_ALL_China address=101.240.0.0/14 comment=CN_list
 add list=List_ALL_China address=101.245.0.0/23 comment=CN_list
 add list=List_ALL_China address=101.245.16.0/23 comment=CN_list
 add list=List_ALL_China address=101.245.32.0/21 comment=CN_list
+add list=List_ALL_China address=101.245.48.0/20 comment=CN_list
+add list=List_ALL_China address=101.245.64.0/18 comment=CN_list
 add list=List_ALL_China address=101.246.172.0/22 comment=CN_list
 add list=List_ALL_China address=101.246.176.0/20 comment=CN_list
 add list=List_ALL_China address=101.248.0.0/15 comment=CN_list
