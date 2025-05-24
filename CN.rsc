@@ -3620,11 +3620,9 @@ add list=List_ALL_China address=210.76.192.0/19 comment=CN_list
 add list=List_ALL_China address=210.77.0.0/18 comment=CN_list
 add list=List_ALL_China address=210.77.64.0/19 comment=CN_list
 add list=List_ALL_China address=210.77.128.0/19 comment=CN_list
-add list=List_ALL_China address=210.77.176.0/22 comment=CN_list
 add list=List_ALL_China address=210.77.180.0/23 comment=CN_list
-add list=List_ALL_China address=210.77.184.0/23 comment=CN_list
-add list=List_ALL_China address=210.77.189.0/24 comment=CN_list
-add list=List_ALL_China address=210.77.190.0/23 comment=CN_list
+add list=List_ALL_China address=210.77.184.0/24 comment=CN_list
+add list=List_ALL_China address=210.77.190.0/24 comment=CN_list
 add list=List_ALL_China address=210.77.192.0/18 comment=CN_list
 add list=List_ALL_China address=210.78.128.0/24 comment=CN_list
 add list=List_ALL_China address=210.78.134.0/23 comment=CN_list
