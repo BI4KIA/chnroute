@@ -1743,7 +1743,6 @@ add list=List_ALL_China address=113.16.0.0/15 comment=CN_list
 add list=List_ALL_China address=113.18.0.0/16 comment=CN_list
 add list=List_ALL_China address=113.21.232.0/21 comment=CN_list
 add list=List_ALL_China address=113.24.0.0/14 comment=CN_list
-add list=List_ALL_China address=113.31.88.0/23 comment=CN_list
 add list=List_ALL_China address=113.31.96.0/19 comment=CN_list
 add list=List_ALL_China address=113.31.144.0/20 comment=CN_list
 add list=List_ALL_China address=113.31.160.0/19 comment=CN_list
