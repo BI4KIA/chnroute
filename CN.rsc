@@ -1224,7 +1224,7 @@ add list=List_ALL_China address=103.118.60.0/22 comment=CN_list
 add list=List_ALL_China address=103.118.173.0/24 comment=CN_list
 add list=List_ALL_China address=103.118.192.0/21 comment=CN_list
 add list=List_ALL_China address=103.118.200.0/22 comment=CN_list
-add list=List_ALL_China address=103.118.208.0/21 comment=CN_list
+add list=List_ALL_China address=103.118.208.0/22 comment=CN_list
 add list=List_ALL_China address=103.118.220.0/22 comment=CN_list
 add list=List_ALL_China address=103.118.240.0/21 comment=CN_list
 add list=List_ALL_China address=103.118.252.0/22 comment=CN_list
