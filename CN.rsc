@@ -978,7 +978,6 @@ add list=List_ALL_China address=103.73.144.0/22 comment=CN_list
 add list=List_ALL_China address=103.73.204.0/22 comment=CN_list
 add list=List_ALL_China address=103.74.24.0/21 comment=CN_list
 add list=List_ALL_China address=103.74.48.0/22 comment=CN_list
-add list=List_ALL_China address=103.74.126.0/24 comment=CN_list
 add list=List_ALL_China address=103.75.107.0/24 comment=CN_list
 add list=List_ALL_China address=103.75.152.0/22 comment=CN_list
 add list=List_ALL_China address=103.76.60.0/22 comment=CN_list
