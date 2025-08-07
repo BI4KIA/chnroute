@@ -2763,7 +2763,6 @@ add list=List_ALL_China address=175.42.0.0/15 comment=CN_list
 add list=List_ALL_China address=175.44.0.0/16 comment=CN_list
 add list=List_ALL_China address=175.46.0.0/15 comment=CN_list
 add list=List_ALL_China address=175.102.0.0/19 comment=CN_list
-add list=List_ALL_China address=175.102.32.0/22 comment=CN_list
 add list=List_ALL_China address=175.102.128.0/21 comment=CN_list
 add list=List_ALL_China address=175.102.178.0/23 comment=CN_list
 add list=List_ALL_China address=175.102.180.0/22 comment=CN_list
