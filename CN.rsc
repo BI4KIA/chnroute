@@ -3619,7 +3619,13 @@ add list=List_ALL_China address=218.240.168.0/24 comment=CN_list
 add list=List_ALL_China address=218.240.176.0/21 comment=CN_list
 add list=List_ALL_China address=218.240.184.0/24 comment=CN_list
 add list=List_ALL_China address=218.241.16.0/21 comment=CN_list
-add list=List_ALL_China address=218.241.96.0/19 comment=CN_list
+add list=List_ALL_China address=218.241.96.0/20 comment=CN_list
+add list=List_ALL_China address=218.241.112.0/22 comment=CN_list
+add list=List_ALL_China address=218.241.116.0/23 comment=CN_list
+add list=List_ALL_China address=218.241.118.0/24 comment=CN_list
+add list=List_ALL_China address=218.241.121.0/24 comment=CN_list
+add list=List_ALL_China address=218.241.122.0/23 comment=CN_list
+add list=List_ALL_China address=218.241.124.0/22 comment=CN_list
 add list=List_ALL_China address=218.241.128.0/17 comment=CN_list
 add list=List_ALL_China address=218.242.0.0/16 comment=CN_list
 add list=List_ALL_China address=218.244.0.0/19 comment=CN_list
