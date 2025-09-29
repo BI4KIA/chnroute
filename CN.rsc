@@ -2496,7 +2496,7 @@ add list=List_ALL_China address=124.196.66.0/24 comment=CN_list
 add list=List_ALL_China address=124.196.72.0/24 comment=CN_list
 add list=List_ALL_China address=124.196.77.0/24 comment=CN_list
 add list=List_ALL_China address=124.196.80.0/22 comment=CN_list
-add list=List_ALL_China address=124.196.84.0/24 comment=CN_list
+add list=List_ALL_China address=124.196.84.0/23 comment=CN_list
 add list=List_ALL_China address=124.200.0.0/16 comment=CN_list
 add list=List_ALL_China address=124.202.0.0/16 comment=CN_list
 add list=List_ALL_China address=124.203.176.0/20 comment=CN_list
