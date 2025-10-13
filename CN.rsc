@@ -777,8 +777,13 @@ add list=List_ALL_China address=101.237.36.0/22 comment=CN_list
 add list=List_ALL_China address=101.237.40.0/24 comment=CN_list
 add list=List_ALL_China address=101.237.128.0/20 comment=CN_list
 add list=List_ALL_China address=101.240.0.0/14 comment=CN_list
-add list=List_ALL_China address=101.245.0.0/17 comment=CN_list
-add list=List_ALL_China address=101.245.128.0/18 comment=CN_list
+add list=List_ALL_China address=101.245.0.0/22 comment=CN_list
+add list=List_ALL_China address=101.245.8.0/21 comment=CN_list
+add list=List_ALL_China address=101.245.16.0/21 comment=CN_list
+add list=List_ALL_China address=101.245.32.0/19 comment=CN_list
+add list=List_ALL_China address=101.245.64.0/18 comment=CN_list
+add list=List_ALL_China address=101.245.128.0/20 comment=CN_list
+add list=List_ALL_China address=101.245.144.0/22 comment=CN_list
 add list=List_ALL_China address=101.246.172.0/22 comment=CN_list
 add list=List_ALL_China address=101.246.176.0/20 comment=CN_list
 add list=List_ALL_China address=101.247.0.0/18 comment=CN_list
