@@ -1775,8 +1775,7 @@ add list=List_ALL_China address=115.31.64.0/22 comment=CN_list
 add list=List_ALL_China address=115.32.0.0/19 comment=CN_list
 add list=List_ALL_China address=115.32.32.0/21 comment=CN_list
 add list=List_ALL_China address=115.32.56.0/21 comment=CN_list
-add list=List_ALL_China address=115.32.64.0/18 comment=CN_list
-add list=List_ALL_China address=115.32.128.0/17 comment=CN_list
+add list=List_ALL_China address=115.32.64.0/19 comment=CN_list
 add list=List_ALL_China address=115.44.0.0/14 comment=CN_list
 add list=List_ALL_China address=115.48.0.0/12 comment=CN_list
 add list=List_ALL_China address=115.84.0.0/18 comment=CN_list
