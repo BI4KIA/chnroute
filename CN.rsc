@@ -1257,7 +1257,7 @@ add list=List_ALL_China address=103.215.44.0/24 comment=CN_list
 add list=List_ALL_China address=103.215.140.0/22 comment=CN_list
 add list=List_ALL_China address=103.216.136.0/22 comment=CN_list
 add list=List_ALL_China address=103.216.152.0/22 comment=CN_list
-add list=List_ALL_China address=103.216.252.0/23 comment=CN_list
+add list=List_ALL_China address=103.216.252.0/22 comment=CN_list
 add list=List_ALL_China address=103.217.184.0/21 comment=CN_list
 add list=List_ALL_China address=103.217.192.0/20 comment=CN_list
 add list=List_ALL_China address=103.218.216.0/22 comment=CN_list
@@ -2349,6 +2349,7 @@ add list=List_ALL_China address=122.119.4.0/23 comment=CN_list
 add list=List_ALL_China address=122.119.12.0/22 comment=CN_list
 add list=List_ALL_China address=122.119.20.0/22 comment=CN_list
 add list=List_ALL_China address=122.119.24.0/23 comment=CN_list
+add list=List_ALL_China address=122.119.26.0/24 comment=CN_list
 add list=List_ALL_China address=122.119.32.0/24 comment=CN_list
 add list=List_ALL_China address=122.119.50.0/24 comment=CN_list
 add list=List_ALL_China address=122.119.73.0/24 comment=CN_list
