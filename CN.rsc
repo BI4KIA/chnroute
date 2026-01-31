@@ -1193,7 +1193,7 @@ add list=List_ALL_China address=103.213.60.0/22 comment=CN_list
 add list=List_ALL_China address=103.213.64.0/19 comment=CN_list
 add list=List_ALL_China address=103.213.96.0/22 comment=CN_list
 add list=List_ALL_China address=103.213.132.0/22 comment=CN_list
-add list=List_ALL_China address=103.213.144.0/24 comment=CN_list
+add list=List_ALL_China address=103.213.144.0/23 comment=CN_list
 add list=List_ALL_China address=103.213.160.0/19 comment=CN_list
 add list=List_ALL_China address=103.214.48.0/22 comment=CN_list
 add list=List_ALL_China address=103.215.36.0/22 comment=CN_list
