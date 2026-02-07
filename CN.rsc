@@ -771,7 +771,6 @@ add list=List_ALL_China address=103.3.112.0/20 comment=CN_list
 add list=List_ALL_China address=103.3.128.0/22 comment=CN_list
 add list=List_ALL_China address=103.3.136.0/21 comment=CN_list
 add list=List_ALL_China address=103.3.152.0/21 comment=CN_list
-add list=List_ALL_China address=103.4.56.0/22 comment=CN_list
 add list=List_ALL_China address=103.5.192.0/23 comment=CN_list
 add list=List_ALL_China address=103.5.194.0/24 comment=CN_list
 add list=List_ALL_China address=103.6.220.0/22 comment=CN_list
