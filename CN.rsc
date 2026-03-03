@@ -2478,6 +2478,7 @@ add list=List_ALL_China address=125.208.0.0/19 comment=CN_list
 add list=List_ALL_China address=125.208.32.0/22 comment=CN_list
 add list=List_ALL_China address=125.208.36.0/23 comment=CN_list
 add list=List_ALL_China address=125.208.40.0/24 comment=CN_list
+add list=List_ALL_China address=125.208.42.0/24 comment=CN_list
 add list=List_ALL_China address=125.208.44.0/22 comment=CN_list
 add list=List_ALL_China address=125.210.0.0/15 comment=CN_list
 add list=List_ALL_China address=125.213.32.0/20 comment=CN_list
