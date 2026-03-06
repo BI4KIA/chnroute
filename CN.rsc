@@ -302,7 +302,7 @@ add list=List_ALL_China address=43.249.0.0/23 comment=CN_list
 add list=List_ALL_China address=43.249.2.0/24 comment=CN_list
 add list=List_ALL_China address=43.249.136.0/22 comment=CN_list
 add list=List_ALL_China address=43.249.144.0/22 comment=CN_list
-add list=List_ALL_China address=43.249.168.0/23 comment=CN_list
+add list=List_ALL_China address=43.249.169.0/24 comment=CN_list
 add list=List_ALL_China address=43.249.236.0/22 comment=CN_list
 add list=List_ALL_China address=43.250.4.0/22 comment=CN_list
 add list=List_ALL_China address=43.250.32.0/22 comment=CN_list
