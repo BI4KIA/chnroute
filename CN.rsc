@@ -608,7 +608,6 @@ add list=List_ALL_China address=60.252.0.0/16 comment=CN_list
 add list=List_ALL_China address=60.253.128.0/17 comment=CN_list
 add list=List_ALL_China address=60.255.0.0/16 comment=CN_list
 add list=List_ALL_China address=61.4.80.0/23 comment=CN_list
-add list=List_ALL_China address=61.10.128.0/20 comment=CN_list
 add list=List_ALL_China address=61.10.160.0/20 comment=CN_list
 add list=List_ALL_China address=61.10.208.0/20 comment=CN_list
 add list=List_ALL_China address=61.10.240.0/20 comment=CN_list
