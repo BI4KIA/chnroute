@@ -3507,7 +3507,11 @@ add list=List_ALL_China address=211.156.220.0/23 comment=CN_list
 add list=List_ALL_China address=211.156.223.0/24 comment=CN_list
 add list=List_ALL_China address=211.157.0.0/19 comment=CN_list
 add list=List_ALL_China address=211.157.96.0/19 comment=CN_list
-add list=List_ALL_China address=211.157.128.0/17 comment=CN_list
+add list=List_ALL_China address=211.157.128.0/18 comment=CN_list
+add list=List_ALL_China address=211.157.192.0/20 comment=CN_list
+add list=List_ALL_China address=211.157.219.0/24 comment=CN_list
+add list=List_ALL_China address=211.157.222.0/24 comment=CN_list
+add list=List_ALL_China address=211.157.224.0/19 comment=CN_list
 add list=List_ALL_China address=211.158.0.0/16 comment=CN_list
 add list=List_ALL_China address=211.159.64.0/21 comment=CN_list
 add list=List_ALL_China address=211.159.128.0/17 comment=CN_list
