@@ -3643,6 +3643,7 @@ add list=List_ALL_China address=218.247.64.0/19 comment=CN_list
 add list=List_ALL_China address=218.247.128.0/17 comment=CN_list
 add list=List_ALL_China address=218.249.0.0/16 comment=CN_list
 add list=List_ALL_China address=218.252.0.0/17 comment=CN_list
+add list=List_ALL_China address=218.252.128.0/19 comment=CN_list
 add list=List_ALL_China address=218.253.0.0/18 comment=CN_list
 add list=List_ALL_China address=219.72.0.0/16 comment=CN_list
 add list=List_ALL_China address=219.82.0.0/16 comment=CN_list
