@@ -1500,7 +1500,7 @@ add list=List_ALL_China address=110.203.0.0/23 comment=CN_list
 add list=List_ALL_China address=110.211.0.0/16 comment=CN_list
 add list=List_ALL_China address=110.218.0.0/15 comment=CN_list
 add list=List_ALL_China address=110.228.0.0/14 comment=CN_list
-add list=List_ALL_China address=110.236.0.0/15 comment=CN_list
+add list=List_ALL_China address=110.236.0.0/16 comment=CN_list
 add list=List_ALL_China address=110.240.0.0/12 comment=CN_list
 add list=List_ALL_China address=111.0.0.0/10 comment=CN_list
 add list=List_ALL_China address=111.72.0.0/13 comment=CN_list
