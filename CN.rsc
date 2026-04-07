@@ -2073,6 +2073,7 @@ add list=List_ALL_China address=119.44.205.0/24 comment=CN_list
 add list=List_ALL_China address=119.44.208.0/22 comment=CN_list
 add list=List_ALL_China address=119.44.212.0/23 comment=CN_list
 add list=List_ALL_China address=119.44.214.0/24 comment=CN_list
+add list=List_ALL_China address=119.44.217.0/24 comment=CN_list
 add list=List_ALL_China address=119.44.218.0/23 comment=CN_list
 add list=List_ALL_China address=119.44.220.0/22 comment=CN_list
 add list=List_ALL_China address=119.44.224.0/20 comment=CN_list
