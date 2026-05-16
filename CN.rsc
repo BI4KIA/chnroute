@@ -1619,7 +1619,7 @@ add list=List_ALL_China address=114.55.0.0/16 comment=CN_list
 add list=List_ALL_China address=114.60.0.0/14 comment=CN_list
 add list=List_ALL_China address=114.64.0.0/16 comment=CN_list
 add list=List_ALL_China address=114.66.0.0/18 comment=CN_list
-add list=List_ALL_China address=114.66.80.0/23 comment=CN_list
+add list=List_ALL_China address=114.66.81.0/24 comment=CN_list
 add list=List_ALL_China address=114.66.236.0/22 comment=CN_list
 add list=List_ALL_China address=114.66.240.0/20 comment=CN_list
 add list=List_ALL_China address=114.67.16.0/21 comment=CN_list
