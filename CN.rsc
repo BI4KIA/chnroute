@@ -3563,16 +3563,13 @@ add list=List_ALL_China address=216.38.170.0/23 comment=CN_list
 add list=List_ALL_China address=218.0.0.0/11 comment=CN_list
 add list=List_ALL_China address=218.56.0.0/13 comment=CN_list
 add list=List_ALL_China address=218.64.0.0/11 comment=CN_list
-add list=List_ALL_China address=218.96.0.0/24 comment=CN_list
 add list=List_ALL_China address=218.96.64.0/22 comment=CN_list
 add list=List_ALL_China address=218.96.104.0/22 comment=CN_list
 add list=List_ALL_China address=218.96.108.0/23 comment=CN_list
 add list=List_ALL_China address=218.96.126.0/23 comment=CN_list
 add list=List_ALL_China address=218.96.128.0/24 comment=CN_list
 add list=List_ALL_China address=218.96.241.0/24 comment=CN_list
-add list=List_ALL_China address=218.96.244.0/24 comment=CN_list
 add list=List_ALL_China address=218.96.255.0/24 comment=CN_list
-add list=List_ALL_China address=218.97.0.0/17 comment=CN_list
 add list=List_ALL_China address=218.97.160.0/19 comment=CN_list
 add list=List_ALL_China address=218.97.192.0/19 comment=CN_list
 add list=List_ALL_China address=218.97.240.0/20 comment=CN_list
