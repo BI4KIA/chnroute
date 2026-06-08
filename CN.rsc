@@ -1602,6 +1602,9 @@ add list=List_ALL_China address=113.200.0.0/15 comment=CN_list
 add list=List_ALL_China address=113.204.0.0/14 comment=CN_list
 add list=List_ALL_China address=113.208.112.0/21 comment=CN_list
 add list=List_ALL_China address=113.209.128.0/17 comment=CN_list
+add list=List_ALL_China address=113.213.0.0/18 comment=CN_list
+add list=List_ALL_China address=113.213.64.0/19 comment=CN_list
+add list=List_ALL_China address=113.213.96.0/20 comment=CN_list
 add list=List_ALL_China address=113.214.0.0/15 comment=CN_list
 add list=List_ALL_China address=113.218.0.0/15 comment=CN_list
 add list=List_ALL_China address=113.220.0.0/14 comment=CN_list
