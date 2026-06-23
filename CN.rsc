@@ -963,6 +963,7 @@ add list=List_ALL_China address=103.71.200.0/23 comment=CN_list
 add list=List_ALL_China address=103.71.202.0/24 comment=CN_list
 add list=List_ALL_China address=103.71.232.0/22 comment=CN_list
 add list=List_ALL_China address=103.72.172.0/24 comment=CN_list
+add list=List_ALL_China address=103.72.224.0/24 comment=CN_list
 add list=List_ALL_China address=103.73.48.0/24 comment=CN_list
 add list=List_ALL_China address=103.73.116.0/22 comment=CN_list
 add list=List_ALL_China address=103.73.136.0/21 comment=CN_list
@@ -1092,6 +1093,7 @@ add list=List_ALL_China address=103.135.164.0/23 comment=CN_list
 add list=List_ALL_China address=103.135.192.0/23 comment=CN_list
 add list=List_ALL_China address=103.135.195.0/24 comment=CN_list
 add list=List_ALL_China address=103.135.196.0/22 comment=CN_list
+add list=List_ALL_China address=103.135.208.0/23 comment=CN_list
 add list=List_ALL_China address=103.137.60.0/24 comment=CN_list
 add list=List_ALL_China address=103.139.172.0/23 comment=CN_list
 add list=List_ALL_China address=103.139.212.0/23 comment=CN_list
