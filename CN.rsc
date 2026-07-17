@@ -2684,6 +2684,7 @@ add list=List_ALL_China address=163.61.178.0/23 comment=CN_list
 add list=List_ALL_China address=163.61.202.0/23 comment=CN_list
 add list=List_ALL_China address=163.61.214.0/23 comment=CN_list
 add list=List_ALL_China address=163.125.0.0/16 comment=CN_list
+add list=List_ALL_China address=163.128.254.0/23 comment=CN_list
 add list=List_ALL_China address=163.142.0.0/16 comment=CN_list
 add list=List_ALL_China address=163.177.0.0/16 comment=CN_list
 add list=List_ALL_China address=163.179.0.0/16 comment=CN_list
