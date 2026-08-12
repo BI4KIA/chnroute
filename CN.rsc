@@ -2704,13 +2704,10 @@ add list=List_ALL_China address=166.111.0.0/16 comment=CN_list
 add list=List_ALL_China address=167.139.0.0/16 comment=CN_list
 add list=List_ALL_China address=167.220.244.0/22 comment=CN_list
 add list=List_ALL_China address=168.160.0.0/17 comment=CN_list
-add list=List_ALL_China address=168.160.152.0/21 comment=CN_list
+add list=List_ALL_China address=168.160.152.0/24 comment=CN_list
+add list=List_ALL_China address=168.160.158.0/23 comment=CN_list
 add list=List_ALL_China address=168.160.160.0/21 comment=CN_list
 add list=List_ALL_China address=168.160.168.0/24 comment=CN_list
-add list=List_ALL_China address=168.160.184.0/23 comment=CN_list
-add list=List_ALL_China address=168.160.191.0/24 comment=CN_list
-add list=List_ALL_China address=168.160.192.0/21 comment=CN_list
-add list=List_ALL_China address=168.160.200.0/24 comment=CN_list
 add list=List_ALL_China address=171.8.0.0/13 comment=CN_list
 add list=List_ALL_China address=171.34.0.0/15 comment=CN_list
 add list=List_ALL_China address=171.36.0.0/14 comment=CN_list
