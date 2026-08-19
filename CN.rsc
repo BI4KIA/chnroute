@@ -1,5 +1,6 @@
 /ip firewall address-list
 add list=List_ALL_China address=1.1.8.0/24 comment=CN_list
+add list=List_ALL_China address=1.2.4.0/24 comment=CN_list
 add list=List_ALL_China address=1.8.1.0/24 comment=CN_list
 add list=List_ALL_China address=1.8.8.0/24 comment=CN_list
 add list=List_ALL_China address=1.12.0.0/14 comment=CN_list
@@ -2862,6 +2863,7 @@ add list=List_ALL_China address=185.201.226.0/23 comment=CN_list
 add list=List_ALL_China address=188.131.128.0/17 comment=CN_list
 add list=List_ALL_China address=192.6.161.0/24 comment=CN_list
 add list=List_ALL_China address=192.6.243.0/24 comment=CN_list
+add list=List_ALL_China address=192.51.173.0/24 comment=CN_list
 add list=List_ALL_China address=192.140.160.0/19 comment=CN_list
 add list=List_ALL_China address=192.140.208.0/21 comment=CN_list
 add list=List_ALL_China address=192.144.128.0/17 comment=CN_list
@@ -3275,6 +3277,7 @@ add list=List_ALL_China address=203.223.20.0/24 comment=CN_list
 add list=List_ALL_China address=204.77.130.0/24 comment=CN_list
 add list=List_ALL_China address=205.198.19.0/24 comment=CN_list
 add list=List_ALL_China address=210.2.0.0/23 comment=CN_list
+add list=List_ALL_China address=210.2.4.0/24 comment=CN_list
 add list=List_ALL_China address=210.5.128.0/19 comment=CN_list
 add list=List_ALL_China address=210.12.0.0/16 comment=CN_list
 add list=List_ALL_China address=210.13.0.0/17 comment=CN_list
