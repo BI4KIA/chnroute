@@ -2781,14 +2781,14 @@ add list=List_ALL_China address=180.184.14.0/24 comment=CN_list
 add list=List_ALL_China address=180.184.16.0/24 comment=CN_list
 add list=List_ALL_China address=180.184.24.0/21 comment=CN_list
 add list=List_ALL_China address=180.184.32.0/19 comment=CN_list
-add list=List_ALL_China address=180.184.64.0/18 comment=CN_list
+add list=List_ALL_China address=180.184.64.0/19 comment=CN_list
+add list=List_ALL_China address=180.184.96.0/21 comment=CN_list
 add list=List_ALL_China address=180.184.128.0/20 comment=CN_list
 add list=List_ALL_China address=180.184.144.0/21 comment=CN_list
 add list=List_ALL_China address=180.184.152.0/22 comment=CN_list
 add list=List_ALL_China address=180.184.160.0/20 comment=CN_list
 add list=List_ALL_China address=180.184.176.0/21 comment=CN_list
 add list=List_ALL_China address=180.184.184.0/22 comment=CN_list
-add list=List_ALL_China address=180.184.190.0/23 comment=CN_list
 add list=List_ALL_China address=180.184.192.0/18 comment=CN_list
 add list=List_ALL_China address=180.186.38.0/23 comment=CN_list
 add list=List_ALL_China address=180.186.40.0/22 comment=CN_list
