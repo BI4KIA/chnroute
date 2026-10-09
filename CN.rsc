@@ -2335,7 +2335,6 @@ add list=List_ALL_China address=123.49.192.0/23 comment=CN_list
 add list=List_ALL_China address=123.49.231.0/24 comment=CN_list
 add list=List_ALL_China address=123.49.240.0/24 comment=CN_list
 add list=List_ALL_China address=123.49.242.0/23 comment=CN_list
-add list=List_ALL_China address=123.49.244.0/24 comment=CN_list
 add list=List_ALL_China address=123.52.0.0/14 comment=CN_list
 add list=List_ALL_China address=123.56.0.0/15 comment=CN_list
 add list=List_ALL_China address=123.58.0.0/19 comment=CN_list
