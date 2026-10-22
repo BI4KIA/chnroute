@@ -2926,6 +2926,7 @@ add list=List_ALL_China address=202.91.190.0/23 comment=CN_list
 add list=List_ALL_China address=202.91.224.0/20 comment=CN_list
 add list=List_ALL_China address=202.91.240.0/21 comment=CN_list
 add list=List_ALL_China address=202.91.248.0/22 comment=CN_list
+add list=List_ALL_China address=202.92.4.0/22 comment=CN_list
 add list=List_ALL_China address=202.93.252.0/22 comment=CN_list
 add list=List_ALL_China address=202.95.0.0/19 comment=CN_list
 add list=List_ALL_China address=202.96.0.0/13 comment=CN_list
